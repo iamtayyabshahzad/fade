@@ -1,0 +1,38 @@
+html {
+  background-color: rgb(78, 78, 194);
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.clear {
+  clear: both;
+}
+#content {
+  overflow: auto;
+  width: 60%;
+  height: 170px;
+  background-color: white;
+  margin: 70px auto;
+  padding: 70px 70px;
+}
+.red {
+  height: 90px;
+  width: 90px;
+  background-color: red;
+  color: white;
+  float: left;
+}
+.green {
+  height: 90px;
+  width: 90px;
+  background-color: green;
+  color: white;
+  float: left;
+}
+.blue {
+  height: 90px;
+  width: 90px;
+  background-color: blue;
+  color: white;
+  float: left;
+}
